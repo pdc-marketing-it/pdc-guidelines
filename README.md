@@ -50,7 +50,7 @@ Pdc.*SolutionType*(*.CustomerName*).*ProjectName*.sln
 
 |SolutionType|Description|Examples
 |-|-|-|
-| Stacks | Web Applications running on PDC-NET304 | Pdc.Stacks.XRef.sln, Pdc.Stacks.XData.sln
+| Stacks | Web Applications | Pdc.Stacks.XRef.sln, Pdc.Stacks.XData.sln
 | Workflows | Console programs |Pdc.Workflows.FCA.FcaCarflows.sln, Pdc.Workflows.RRG.Vector.sln
 
 ### Projects
